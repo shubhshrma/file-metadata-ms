@@ -1,0 +1,25 @@
+{
+  "name": "file-metadata-ms",
+  "version": "1.0.0",
+  "description": "An API that returns you the metadata about your uploaded file.",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/shubhshrma/file-metadata-ms.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/shubhshrma/file-metadata-ms/issues"
+  },
+  "homepage": "https://github.com/shubhshrma/file-metadata-ms#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "cors": "^2.8.4",
+    "express": "^4.16.2",
+    "multer": "^1.3.0"
+  }
+}
